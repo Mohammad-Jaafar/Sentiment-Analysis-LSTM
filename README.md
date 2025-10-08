@@ -83,7 +83,7 @@ Sentiment-Analysis-LSTM
 
 ## Author
 - **Mohammad Jaafar**  
-[LinkedIn](https://www.linkedin.com/in/mohammad-jaafar-) | [HuggingFace](https://github.com/mhdjaafar24)
+[LinkedIn](https://www.linkedin.com/in/mohammad-jaafar-) | [HuggingFace](https://github.com/Mhdjaafar)
 
 ---
 
