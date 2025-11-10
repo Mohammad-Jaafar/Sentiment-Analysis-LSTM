@@ -34,29 +34,18 @@ Sentiment-Analysis-LSTM
 │── word_index.pkl
 │── config.pkl
 │── README.md
+│── requirements.txt
 ```
-
 ---
 
-## Installation & Usage
+## How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-lstm-imdb.git
-   cd sentiment-analysis-lstm-imdb
+   git clone https://github.com/Mohammad-Jaafar/Sentiment-Analysis-LSTM.git
    ```
-
-2. Install dependencies:
-   ```bash
-   pip install tensorflow matplotlib
-   ```
-
-3. Open the notebook:
-   ```bash
-   jupyter notebook sentiment_analysis_lstm_imdb.ipynb
-   ```
-
-4. Train the model and evaluate it.
+2. Open the notebook in Jupyter or Google Colab.
+3. Run all cells step-by-step to reproduce the results.
 
 ---
 
@@ -73,17 +62,12 @@ Sentiment-Analysis-LSTM
 
 ---
 
-## Future Work
-- Use **Bidirectional LSTM** for improved accuracy.
-- Implement **GRU** and compare results.
-- Try **pretrained embeddings** like GloVe or Word2Vec.
-- Deploy model using **Flask API** or **Streamlit app**.
-
----
-
 ## Author
-- **Mohammad Jaafar**  
-[LinkedIn](https://www.linkedin.com/in/mohammad-jaafar-) | [HuggingFace](https://github.com/Mhdjaafar)
+**Mohammad Jaafar**  
+mhdjaafar24@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/mohammad-jaafar-)  
+[HuggingFace](https://huggingface.co/Mhdjaafar)  
+[GitHub](https://github.com/Mohammad-Jaafar)
 
 ---
 
